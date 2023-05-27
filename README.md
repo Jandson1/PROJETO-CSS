@@ -31,11 +31,11 @@ Esse projeto é a base para um formulário de cadastro de entidades da causaa an
   <img alt="Página inicial" src="https://github.com/Jandson1/PROJETO-CSS/assets/107883675/96514333-c94e-4b25-9736-4f8e9d1936ab" width="100%">
 </p>
 
-## Melhorias
+## 🛠 Melhorias
 
 Posteriormente irei adicionar mais duas telas, para as entidades cadastradas e os campos de atuação.
 
-## Contato
+## 🤝 Contato
 
 https://www.linkedin.com/in/jandsonmoura/
 
